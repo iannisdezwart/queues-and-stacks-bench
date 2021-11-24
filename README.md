@@ -1,6 +1,7 @@
 # QueuesAndStacks Benchmark
 
-Linked Lists vs Dynamic Arrays: Queues vs Stacks
+Linked Lists vs Dynamic Arrays: Queues vs Stacks.
+
 This benchmark compares the performance of a queue and a stack implemented
 using linked lists and dynamic arrays.
 
