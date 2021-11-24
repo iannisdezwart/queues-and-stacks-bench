@@ -1,5 +1,3 @@
-CC = g++-11
-
 all: queue stack
 
 .PHONY: queue
