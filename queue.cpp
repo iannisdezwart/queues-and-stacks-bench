@@ -140,7 +140,7 @@ struct ArrayQueue
 		capacity = new_capacity;
 		array = new_array;
 		head = 0;
-		tail = size;
+		tail = size % size;
 	}
 
 	void
