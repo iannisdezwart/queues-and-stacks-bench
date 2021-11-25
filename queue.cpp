@@ -131,7 +131,7 @@ struct ArrayQueue
 	{
 		T *new_array = new T[new_capacity];
 
-		for (size_t i = head; i < size; i++)
+		for (size_t i = 0; i < size; i++)
 		{
 			new_array[i] = array[(head + i) % size];
 		}
